@@ -14,14 +14,14 @@ export default class Card extends Component {
                     <div className="card__image">
                         <img src={equil} alt="block" />
                         <div className="card__overlay">
-                            <img src={view} alt={view.name} />
+                            <img src={view} alt="eye" />
                         </div>
                     </div>
                     <h2 className='card__title'>Equilibrium <span>#3429</span></h2>
                     <p className='card__description'>Our Equilibrium collection promotes balance and calm.</p>
                     <div className='card__second'>
-                        <p className='card__eth'><img src={eth} alt="" aria-hidden='true'/> 0.041 ETH</p>
-                        <p className='card__time'><img src={clock} alt="" aria-hidden='true' />3 days left</p>
+                        <p className='card__eth'><img src={eth} alt="eth"/> 0.041 ETH</p>
+                        <p className='card__time'><img src={clock} alt="clock"/>3 days left</p>
                     </div>
                     <hr />
                     <div className='card__third'>
