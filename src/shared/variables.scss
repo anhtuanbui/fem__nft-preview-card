@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;800&display=swap");
+
+$width__mobile: 375px;
+$width__desktop: 1440px;
+
+$color__primary--cyan: hsl(178, 100%, 50%);
+$color__primary--cyan-opacity50: hsla(178, 100%, 50%, 0.5);
+$color__primary--soft-blue: hsl(215, 51%, 70%);
+
+$color__neutral--very-dark-blue-main: hsl(217, 54%, 11%);
+$color__neutral--very-dark-blue-card: hsl(216, 50%, 16%);
+$color__neutral--very-dark-blue-line: hsl(215, 32%, 27%);
+$color__neutral--white: hsl(0, 0%, 100%);
+
+$typography__font-size: 18px;
+
+$typography__font-family: "Outfit", sans-serif;
+
+$typography__font-weight--light: 300;
+$typography__font-weight--regular: 400;
+$typography__font-weight--bold: 700;
+$typography__font-weight--extra-bold: 800;
+
+
+@mixin mobile {
+  @media screen and (max-width: $width__mobile) {
+    @content;
+  }
+}
