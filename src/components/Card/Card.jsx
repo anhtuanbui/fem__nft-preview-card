@@ -17,7 +17,7 @@ export default class Card extends Component {
                             <img src={view} alt="eye" />
                         </div>
                     </div>
-                    <h2 className='card__title'>Equilibrium <span>#3429</span></h2>
+                    <h1 className='card__title'>Equilibrium <span>#3429</span></h1>
                     <p className='card__description'>Our Equilibrium collection promotes balance and calm.</p>
                     <div className='card__second'>
                         <p className='card__eth'><img src={eth} alt="eth"/> 0.041 ETH</p>
