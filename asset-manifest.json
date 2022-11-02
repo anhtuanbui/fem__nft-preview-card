@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fem__nft-preview-card/static/css/main.b6a5ef00.css",
-    "main.js": "/fem__nft-preview-card/static/js/main.5b815589.js",
+    "main.js": "/fem__nft-preview-card/static/js/main.15ada197.js",
     "static/js/787.cb67e081.chunk.js": "/fem__nft-preview-card/static/js/787.cb67e081.chunk.js",
     "static/media/image-equilibrium.jpg": "/fem__nft-preview-card/static/media/image-equilibrium.88bdbc91a544a2a4d04a.jpg",
     "index.html": "/fem__nft-preview-card/index.html",
@@ -9,11 +9,11 @@
     "static/media/icon-clock.svg": "/fem__nft-preview-card/static/media/icon-clock.991a65225dab4fadc84345ecb35faa1b.svg",
     "static/media/icon-ethereum.svg": "/fem__nft-preview-card/static/media/icon-ethereum.5221f33297e5dc863451e2da9a758c12.svg",
     "main.b6a5ef00.css.map": "/fem__nft-preview-card/static/css/main.b6a5ef00.css.map",
-    "main.5b815589.js.map": "/fem__nft-preview-card/static/js/main.5b815589.js.map",
+    "main.15ada197.js.map": "/fem__nft-preview-card/static/js/main.15ada197.js.map",
     "787.cb67e081.chunk.js.map": "/fem__nft-preview-card/static/js/787.cb67e081.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b6a5ef00.css",
-    "static/js/main.5b815589.js"
+    "static/js/main.15ada197.js"
   ]
 }
