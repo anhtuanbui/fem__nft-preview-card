@@ -51,6 +51,15 @@
 
         &:hover {
             background-color: $color__primary--cyan-opacity50;
+
+            > img {
+                transition: 0.4s;
+                opacity: 1;
+            }
+        }
+
+        > img {
+            opacity: 0;
         }
 
     }
